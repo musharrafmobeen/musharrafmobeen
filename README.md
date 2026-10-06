@@ -1,4 +1,4 @@
-<img src="header.svg" alt="Musharaf Mobeen, backend software engineer in Islamabad. Software Engineer at Transworld." width="100%">
+<img src="header.png" alt="Musharaf Mobeen, backend software engineer in Islamabad. Software Engineer at Transworld." width="100%">
 
 I build the services behind products people use: billing and operations for a telecom, a real estate platform, and AI tools. Four years in, mostly NestJS, queues, and databases.
 
