@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Musharaf Mobeen</title>
+  <desc id="desc">Backend software engineer in Islamabad. Now at Transworld.</desc>
+  <rect width="1200" height="340" fill="#f6f7f6"/>
+  <text x="56" y="78" fill="#14382e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="650" letter-spacing="3.4">BACKEND SOFTWARE ENGINEER  ·  ISLAMABAD</text>
+  <text x="52" y="178" fill="#141816" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', serif" font-size="86">Musharaf</text>
+  <text x="52" y="272" fill="#14382e" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', serif" font-size="86" font-style="italic">Mobeen</text>
+  <rect x="760" y="40" width="384" height="260" rx="22" fill="#14382e"/>
+  <text x="792" y="92" fill="#c5ddd3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="650" letter-spacing="2.4">NOW</text>
+  <text x="792" y="120" fill="#f4f7f5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">Software Engineer at Transworld</text>
+  <line x1="792" y1="148" x2="1104" y2="148" stroke="#f4f7f5" stroke-opacity="0.16"/>
+  <text x="792" y="184" fill="#c5ddd3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="650" letter-spacing="2.4">FOCUS</text>
+  <text x="792" y="212" fill="#f4f7f5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">APIs and event-driven systems</text>
+  <line x1="792" y1="240" x2="1104" y2="240" stroke="#f4f7f5" stroke-opacity="0.16"/>
+  <text x="792" y="274" fill="#c5ddd3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="650" letter-spacing="2.4">STACK</text>
+  <text x="792" y="300" fill="#f4f7f5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18">NestJS · Redis · RabbitMQ · Docker</text>
+</svg>
